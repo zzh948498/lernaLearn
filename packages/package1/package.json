@@ -10,5 +10,8 @@
   "author": "",
   "private": true,
   "license": "ISC",
-  "gitHead": "52c0c69e4cf518846bc94474a712d0fe3cd4190b"
+  "gitHead": "52c0c69e4cf518846bc94474a712d0fe3cd4190b",
+  "dependencies": {
+    "lodash": "^4.17.15"
+  }
 }
